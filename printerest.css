@@ -1,0 +1,29 @@
+
+img
+{
+    max-width: 100%;
+    margin-bottom: 0.5em;
+    display: block;
+    border-radius: 8px;
+}
+
+img-hover:hover
+{
+    opacity:0.5;
+}
+
+.Galeria
+{    
+    margin:10px 20px ;
+    columns: 5 120px;
+    column-gap: 0.5em;
+}
+.navbar-brand
+{
+    margin-left:10px ;
+}
+
+.Notificaciones
+{
+    margin-left: 10px;
+}
